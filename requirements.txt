@@ -137,7 +137,7 @@ TA-Lib==0.4.17
 tables==3.6.1
 tabulate==0.8.6
 tensorboard==2.1.0
-tensorflow==2.1.0
+tensorflow==2.9.3
 tensorflow-estimator==2.1.0
 termcolor==1.1.0
 toml==0.10.0
